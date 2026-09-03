@@ -1,31 +1,15 @@
-# Errata & Updates for _Juju-chu!—Starting Your Jujutsu × AI Workflow with `jj new`_
+# Errata & Updates for *Juju-chu! —Comese seu fluxo de trabalho Jujutsu × IA com `jj new`*
 
-Last updated: August 4, 2026
+Última actualización: 4 de septiembre de 2026
 
-### Please Note
+### Ten en cuenta
 
-- This errata page is updated as needed.
-- Both the ebook and paperback editions may be updated to new versions that incorporate corrections and revisions as needed.
-- Page numbers for corrections are based on the initial version of the PDF and paperback. As versions are updated, page numbers may shift relative to those in the version you have.
+- Esta página de erratas se actualiza cuando es necesario.
+- Tanto la edición digital como la edición en tapa blanda pueden actualizarse para incorporar correcciones y revisiones.
+- Los números de página indicados en las correcciones corresponden a las versiones iniciales del PDF y de la edición en tapa blanda. La paginación puede cambiar a medida que se publiquen nuevas versiones y no siempre coincidirá con la de la versión que tengas.version you have.
 
 <br>
 
-### Corrections
+### Correcciones
 
-- Column in chapter 2 / p.64
-
-```diff
-- Column: Jujuts's Roots—What Kind of VCS Is Mercurial?
-+ Column: Jujutsu's Roots—What Kind of VCS Is Mercurial?
-```
-
-- 3-2-1. Running `jj fix` via Hooks / p.79 / code block
-
-```diff
-  [fix.tools.biome]
-  command = [ "pnpm", "exec", "biome", "check", "--write" ,"--stdin-file-path",
-  "$path" ]
-  patterns = ["glob:'**/*.
-- {js,mjs,cjs,ts,mts,cts,jsx,tsx,html,css,json,jsonc,yaml,yml,md,mdx}'"]
-+ {js,mjs,cjs,ts,mts,cts,jsx,tsx,html,css,json,jsonc}'"]
-```
+Por el momento no hay correcciones.

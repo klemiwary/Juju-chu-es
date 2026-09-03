@@ -1,6 +1,6 @@
-# Repositorio complementario de *Juju-chu! Comienza tu flujo de trabajo Jujutsu × IA con `jj new`*
+# Repositorio complementario de _Juju-chu! Comienza tu flujo de trabajo Jujutsu × IA con `jj new`_
 
-Este repositorio contiene el código de ejemplo de *Juju-chu! Comienza tu flujo de trabajo Jujutsu × IA con `jj new`*, además de las erratas y la información sobre actualizaciones.
+Este repositorio contiene el código de ejemplo de _Juju-chu! Comienza tu flujo de trabajo Jujutsu × IA con `jj new`_, además de las erratas y la información sobre actualizaciones.
 
 <img src="./images/jujuchu-covers.png" alt="Portadas de Juju-chu!" />
 
@@ -8,7 +8,7 @@ Este repositorio contiene el código de ejemplo de *Juju-chu! Comienza tu flujo 
 
 ## ■ Descripción general
 
-*Juju-chu! Comienza tu flujo de trabajo Jujutsu × IA con `jj new`* es una guía completa para iniciarse en **[Jujutsu](https://www.jj-vcs.dev/)**, un sistema de control de versiones de nueva generación que cada vez despierta más interés.
+_Juju-chu! Comienza tu flujo de trabajo Jujutsu × IA con `jj new`_ es una guía completa para iniciarse en **[Jujutsu](https://www.jj-vcs.dev/)**, un sistema de control de versiones de nueva generación que cada vez despierta más interés.
 
 El libro explica los fundamentos y ayuda a construir un modelo mental de Jujutsu mediante comparaciones con Git. También ofrece consejos prácticos para trabajar con agentes de programación y soluciones a los problemas más frecuentes al usar Jujutsu en proyectos reales.
 
@@ -20,8 +20,8 @@ Al terminarlo, podrás empezar a usar Jujutsu de inmediato e incorporarlo a tu t
 
 Hay una muestra gratuita disponible en PDF y EPUB. Puedes echarle un vistazo antes de leer el libro completo.
 
-* [Muestra gratuita en PDF](./jujuchu-sample.pdf)
-* [Muestra gratuita en EPUB](./jujuchu-sample.epub)
+- [Muestra gratuita en PDF](./jujuchu-sample.pdf)
+- [Muestra gratuita en EPUB](./jujuchu-sample.epub)
 
 <br>
 
@@ -29,12 +29,12 @@ Hay una muestra gratuita disponible en PDF y EPUB. Puedes echarle un vistazo ant
 
 ### Leanpub
 
-* [Edición en PDF y EPUB](https://leanpub.com/juju-chu) (desde 12 USD)
+- [Edición en PDF y EPUB](https://leanpub.com/juju-chu-es) (desde 12 USD)
 
 ### Amazon
 
-* [Edición Kindle](https://www.amazon.com/dp/B0H82MZBJH) (12 USD)
-* [Edición en tapa blanda](https://www.amazon.com/dp/B0H82KN1BH) (18,50 USD)
+- [Edición Kindle](https://www.amazon.com/dp/B0HHYY8RMD) (12 USD)
+- [Edición en tapa blanda](https://www.amazon.com/dp/B0H82KN1BH) (18,50 USD)
 
 <br>
 
@@ -42,8 +42,8 @@ Hay una muestra gratuita disponible en PDF y EPUB. Puedes echarle un vistazo ant
 
 El código fuente de los ejemplos de configuración que aparecen en el libro está disponible en los siguientes directorios:
 
-* Ejemplos de configuración del capítulo 3: [`./samples/ch3/`](./samples/ch3/)
-* Ejemplos de configuración del capítulo 4: [`./samples/ch4/`](./samples/ch4/)
+- Ejemplos de configuración del capítulo 3: [`./samples/ch3/`](./samples/ch3/)
+- Ejemplos de configuración del capítulo 4: [`./samples/ch4/`](./samples/ch4/)
 
 <br>
 
@@ -53,13 +53,13 @@ La edición digital se actualiza cuando hace falta. Si la compraste, descarga la
 
 Para saber qué erratas y actualizaciones corresponden a tu edición impresa, comprueba los datos de impresión que aparecen en el colofón de tu ejemplar y consulta la página siguiente.
 
-* [Erratas y actualizaciones](./errata.md)
+- [Erratas y actualizaciones](./errata.md)
 
 <br>
 
 ## ■ Tabla de contenido
 
-####  Prefacio
+#### Prefacio
 
 #### Sobre este libro
 
@@ -145,9 +145,9 @@ Para saber qué erratas y actualizaciones corresponden a tu edición impresa, co
   - Aparece un críptico «Error: The working copy is stale»
   - Un change se ha quedado con una anotación «divergent» sin saber cómo
   - Jujutsu no rastrea mis archivos de imagen o video
-  - Después de hacer merge de un PR y un fetch, @ se va por donde no debe
+  - Después de hacer merge de un PR y un fetch, `@` se va por donde no debe
   - Borré de GitHub un bookmark remoto en el que aún estaba trabajando
-  - Claude Code me pide permiso para ejecutar jj log aunque está en allow
+  - Claude Code me pide permiso para ejecutar `jj log` aunque está en allow
 - Columna: ¡Queremos un servicio de hosting nativo de JJ!
 
 #### Epílogo
