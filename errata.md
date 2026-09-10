@@ -1,4 +1,4 @@
-# Errata & Updates for *Juju-chu! —Comese seu fluxo de trabalho Jujutsu × IA com `jj new`*
+# Erratas y actualizaciones para *Juju-chu! —Comese seu fluxo de trabalho Jujutsu × IA com `jj new`*
 
 Última actualización: 4 de septiembre de 2026
 
