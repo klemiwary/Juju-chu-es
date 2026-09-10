@@ -1,15 +1,15 @@
-# Erratas y actualizaciones para *Juju-chu! —Comese seu fluxo de trabalho Jujutsu × IA com `jj new`*
+# Erratas y actualizaciones para *Juju-chu! Comienza tu flujo de trabajo Jujutsu × IA con \`jj new\`*
 
 Última actualización: 4 de septiembre de 2026
 
 ### Ten en cuenta
 
-- Esta página de erratas se actualiza cuando es necesario.
-- Tanto la edición digital como la edición en tapa blanda pueden actualizarse para incorporar correcciones y revisiones.
-- Los números de página indicados en las correcciones corresponden a las versiones iniciales del PDF y de la edición en tapa blanda. La paginación puede cambiar a medida que se publiquen nuevas versiones y no siempre coincidirá con la de la versión que tengas.version you have.
+* Esta página de erratas se actualiza cuando es necesario.
+* Tanto la edición digital como la edición en tapa blanda pueden actualizarse para incorporar correcciones y revisiones.
+* Los números de página indicados en las correcciones corresponden a las versiones iniciales del PDF y de la edición en tapa blanda. La paginación puede cambiar en versiones posteriores, por lo que estos números podrían no coincidir con los de tu ejemplar.
 
 <br>
 
 ### Correcciones
 
-Por el momento no hay correcciones.
+Por el momento no hay correcciones que señalar.
