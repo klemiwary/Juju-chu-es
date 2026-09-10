@@ -8,11 +8,11 @@ Este repositorio contiene el código de ejemplo de _Juju-chu! Comienza tu flujo 
 
 ## ■ Descripción general
 
-_Juju-chu! Comienza tu flujo de trabajo Jujutsu × IA con `jj new`_ es una guía completa para iniciarse en **[Jujutsu](https://www.jj-vcs.dev/)**, un sistema de control de versiones de nueva generación que cada vez despierta más interés.
+_Juju-chu! Comienza tu flujo de trabajo Jujutsu × IA con `jj new`_ es una guía completa para iniciarse en **[Jujutsu](https://www.jj-vcs.dev/)**, un sistema de control de versiones de nueva generación compatible con Git.
 
-El libro explica los fundamentos y ayuda a construir un modelo mental de Jujutsu mediante comparaciones con Git. También ofrece consejos prácticos para trabajar con agentes de programación y soluciones a los problemas más frecuentes al usar Jujutsu en proyectos reales.
+El libro explica los fundamentos y te ayuda a construir un modelo mental de Jujutsu mediante comparaciones con Git. También ofrece consejos prácticos para trabajar con agentes de programación con IA con IA y soluciones a los problemas más frecuentes al usar Jujutsu en proyectos reales.
 
-Al terminarlo, podrás empezar a usar Jujutsu de inmediato e incorporarlo a tu trabajo diario de desarrollo asistido por IA.
+Al terminar de leer el libro, podrás usar Jujutsu en tus proyectos e incorporarlo a tu flujo de trabajo con agentes de IA.
 
 <br>
 
@@ -40,7 +40,7 @@ Hay una muestra gratuita disponible en PDF y EPUB. Puedes echarle un vistazo ant
 
 ## ■ Código de ejemplo
 
-El código fuente de los ejemplos de configuración que aparecen en el libro está disponible en los siguientes directorios:
+Los archivos de configuración que aparecen en el libro que aparecen en el libro está disponible en los siguientes directorios:
 
 - Ejemplos de configuración del capítulo 3: [`./samples/ch3/`](./samples/ch3/)
 - Ejemplos de configuración del capítulo 4: [`./samples/ch4/`](./samples/ch4/)
@@ -49,9 +49,9 @@ El código fuente de los ejemplos de configuración que aparecen en el libro est
 
 ## ■ Erratas y actualizaciones
 
-La edición digital se actualiza cuando hace falta. Si la compraste, descarga la versión más reciente desde la misma tienda.
+La edición digital se actualiza según sea necesario. Si la compraste, revisa si hay una versión más reciente disponible en la tienda donde la adquiriste y descárgala para acceder a las correcciones y revisiones.
 
-Para saber qué erratas y actualizaciones corresponden a tu edición impresa, comprueba los datos de impresión que aparecen en el colofón de tu ejemplar y consulta la página siguiente.
+Para saber qué erratas y actualizaciones corresponden a tu ejemplar impreso, revisa los datos de edición e impresión que aparecen en el colofón y consulta el siguiente enlace.
 
 - [Erratas y actualizaciones](./errata.md)
 
