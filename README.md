@@ -34,7 +34,7 @@ Hay una muestra gratuita disponible en PDF y EPUB. Puedes echarle un vistazo ant
 ### Amazon
 
 - [Edición Kindle](https://www.amazon.com/dp/B0HHYY8RMD) (12 USD)
-- [Edición en tapa blanda](https://www.amazon.com/dp/B0H82KN1BH) (18,50 USD)
+- [Edición en tapa blanda](https://www.amazon.com/dp/B0HJ6CZ52L) (18,50 USD)
 
 <br>
 
@@ -127,8 +127,8 @@ Para saber qué erratas y actualizaciones corresponden a tu ejemplar impreso, re
 - 5-1. FAQ
   - 5-1-1. Comparación con Git
     - ¿Qué puede hacer Git que Jujutsu no?
-    - ¿No hay comando `merge`?
-    - ¿No hay comando `pull`?
+    - ¿No hay comando merge?
+    - ¿No hay comando pull?
     - Quiero hacer el equivalente al cherry-pick de Git
   - 5-1-2. Operaciones y ajustes de nicho
     - ¿Puedo comprobar el contenido de un archivo en un punto dado sin mover `@`
